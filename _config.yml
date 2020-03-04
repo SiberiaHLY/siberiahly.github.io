@@ -1,6 +1,6 @@
 # Site settings
-title: The House
-SEOTitle: The House
+title: 小屋
+SEOTitle: 小屋
 header-img: img/post-bg-desk.jpg
 email: 413512110@qq.com
 description: "你太习惯这个世界了，才会对任何事情都不感到惊奇。"
@@ -18,12 +18,12 @@ sidebar-avatar: /img/head.png      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     
 zhihu_username:     
 github_username:    
 facebook_username:  
 jianshu_username:   
-#twitter_username:   qiubaiying
+#twitter_username:   
 
 
 
